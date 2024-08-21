@@ -1,0 +1,20 @@
+#formP{
+  padding-top: 15px;
+}
+
+.input-group{
+  padding-bottom:15px;
+}
+
+#promociones{
+  text-align: right;
+  padding-top: 30px;
+}
+
+#buscadorP.form-inline{
+  margin-top: 10px;
+}
+#addProduto{
+  background: #007bff;
+  color: white;
+}
