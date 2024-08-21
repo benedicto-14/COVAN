@@ -1,0 +1,40 @@
+12:55:17 <i class="fas fa-cash-register" style="color: red; font-size:20px;"></i> Lebron Modifico jklsdfjkdfjksdfjkld desde la siguiente IP:::1
+12:55:17 <i class="fas fa-cubes" style="color: red; font-size:20px;"></i> James Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-users" style="color: red; font-size:20px;"></i> Juan Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-file" style="color: red; font-size:20px;"></i> Pedro Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-shopping-cart" style="color: red; font-size:20px;"></i> Ramon Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-dolly" style="color: red; font-size:20px;"></i> Rodolfo Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-store-alt" style="color: red; font-size:20px;"></i> Maria Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-columns" style="color: red; font-size:20px;"></i> Ana Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-address-card" style="color: red; font-size:20px;"></i> Mario Modifico Graficas desde la siguiente IP:::1
+12:55:17 <i class="fas fa-poll" style="color: red; font-size:20px;"></i> Pablo Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-cash-register" style="color: #6DF6A6; font-size:20px;"></i> Lebron Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-cubes" style="color: #EAED2F; font-size:20px;"></i> James Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-users" style="color: #90F0ED; font-size:20px;"></i> Juan Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-file" style="color: #D8D8D8; font-size:20px;"></i> Pedro Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-shopping-cart" style="color: #A4A4A4; font-size:20px;"></i> Ramon Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-dolly" style="color: #84A6F1; font-size:20px;"></i> Rodolfo Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-store-alt" style="color: #FF8686; font-size:20px;"></i> Maria Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-columns" style="color: #EDC68B; font-size:20px;"></i> Ana Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-address-card" style="color: #848ED1; font-size:20px;"></i> Mario Modifico Graficas desde la siguiente IP:::1
+1:09 pm <i class="fas fa-poll" style="color: #FEA8FF; font-size:20px;"></i> Pablo Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-cash-register" style="color: #6DF6A6; font-size:20px;"></i> Lebron Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-cubes" style="color: #EAED2F; font-size:20px;"></i> James Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-users" style="color: #90F0ED; font-size:20px;"></i> Juan Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-file" style="color: #D8D8D8; font-size:20px;"></i> Pedro Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-shopping-cart" style="color: #A4A4A4; font-size:20px;"></i> Ramon Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-dolly" style="color: #84A6F1; font-size:20px;"></i> Rodolfo Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-store-alt" style="color: #FF8686; font-size:20px;"></i> Maria Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-columns" style="color: #EDC68B; font-size:20px;"></i> Ana Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-address-card" style="color: #848ED1; font-size:20px;"></i> Mario Modifico Graficas desde la siguiente IP:::1
+2:47 pm <i class="fas fa-poll" style="color: #FEA8FF; font-size:20px;"></i> Pablo Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-cash-register" style="color: #6DF6A6; font-size:20px;"></i> Lebron Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-cubes" style="color: #EAED2F; font-size:20px;"></i> James Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-users" style="color: #90F0ED; font-size:20px;"></i> Juan Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-file" style="color: #D8D8D8; font-size:20px;"></i> Pedro Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-shopping-cart" style="color: #A4A4A4; font-size:20px;"></i> Ramon Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-dolly" style="color: #84A6F1; font-size:20px;"></i> Rodolfo Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-store-alt" style="color: #FF8686; font-size:20px;"></i> Maria Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-columns" style="color: #EDC68B; font-size:20px;"></i> Ana Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-address-card" style="color: #848ED1; font-size:20px;"></i> Mario Modifico Graficas desde la siguiente IP:::1
+2:50 pm <i class="fas fa-poll" style="color: #FEA8FF; font-size:20px;"></i> Pablo Modifico Graficas desde la siguiente IP:::1

@@ -1,0 +1,10 @@
+15:58:26 <i class="fas fa-cash-register" style="color: red; font-size:20px;"></i> Lebron Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-cubes" style="color: red; font-size:20px;"></i> James Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-users" style="color: red; font-size:20px;"></i> Juan Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-file" style="color: red; font-size:20px;"></i> Pedro Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-shopping-cart" style="color: red; font-size:20px;"></i> Ramon Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-dolly" style="color: red; font-size:20px;"></i> Rodolfo Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-store-alt" style="color: red; font-size:20px;"></i> Maria Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-columns" style="color: red; font-size:20px;"></i> Ana Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-address-card" style="color: red; font-size:20px;"></i> Mario Modifico Graficas desde la siguiente IP:::1
+15:58:26 <i class="fas fa-poll" style="color: red; font-size:20px;"></i> Pablo Modifico Graficas desde la siguiente IP:::1

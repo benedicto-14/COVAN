@@ -1,0 +1,125 @@
+	
+	/* Ejemplos de consultas para registrar en tablas de opensource */
+	
+INSERT INTO estados (estado) VALUES ('Puebla');
+INSERT INTO municipios (idEstado,municipio) VALUES (1,'Tehuacan');
+INSERT INTO localidades (idMunicipio,localidad) VALUES (1,'Tehuacan');
+INSERT INTO sellodigital (cer,sellodigital.key,contraseña) VALUES ('124','123','155');
+INSERT INTO empresa (empresa,idEstado,idMunicipio,calle,numeroExt,codigoPostal,telefono,correo,rfc,idSelloDigital) 
+       VALUES('Abarrotes Beny',1,1,'13 Oriente',415,78760,238986142,'abarrotes.beny@gmail.com','MNHTY012',1);
+INSERT INTO sucursal (sucursal,idEstado,idMunicipio,calle,numeroExt,codigoPostal,telefono,correo,idEmpresa)
+       VALUES ('Abarrotes Beny2',1,1,'Alvaaro Obregon',14,74698,238145278,'abarrotes.beny.obregon@gmail.com',1);
+INSERT INTO turno (turno) VALUES ('matutino');
+INSERT INTO turno (turno) VALUES ('vespertino');
+INSERT INTO turno (turno) VALUES ('completo');
+INSERT INTO sexos (sexo) VALUES ('Hombre');
+INSERT INTO sexos (sexo) VALUES ('Mujer');
+INSERT INTO empleados (empleado,apellidoPaterno,apellidoMaterno,idEstado,idMunicipio,idLocalidad,calle,numero,edad,idSexo,curp,rfc,idTurno,idSucursal) 
+       VALUES ('Jorge','Perez','Ponce',1,1,1,'21 Oriente',978,26,1,'MYERH1254','HTYTY988',2,1);
+INSERT INTO empleados (empleado,apellidoPaterno,apellidoMaterno,idEstado,idMunicipio,idLocalidad,calle,numero,edad,idSexo,curp,rfc,idTurno,idSucursal) 
+       VALUES ('Anita','Chavez','Noruega',1,1,1,'3 Sur',58,21,2,'AQWEWE14','AWR458',1,1);
+INSERT INTO empleados (empleado,apellidoPaterno,apellidoMaterno,idEstado,idMunicipio,idLocalidad,calle,numero,edad,idSexo,curp,rfc,idTurno,idSucursal) 
+       VALUES ('Candido','Morales','Lunares',1,1,1,'12 Poniente',759,33,1,'CAN478','CAN1547',3,1);
+INSERT INTO tipoUsuario (tipoUsuario) VALUES('Admin');
+INSERT INTO tipoUsuario (tipoUsuario) VALUES('General');
+INSERT INTO tipoUsuario (tipoUsuario) VALUES('Usuario');
+INSERT INTO usuarios (usuario,contraseña,idTipoUsuario,idEmpleado) VALUES ('Jorge','123456',2,1);
+INSERT INTO usuarios (usuario,contraseña,idTipoUsuario,idEmpleado) VALUES ('Anita','123456',3,2);
+INSERT INTO usuarios (usuario,contraseña,idTipoUsuario,idEmpleado) VALUES ('Candido','123456',1,3);
+INSERT INTO registroasistencia (idEmpleado,fecha,horaEntrada,horaSalida) VALUES (1,'2019-01-15','09:01:25','18:08:23');
+INSERT INTO registroasistencia (idEmpleado,fecha,horaEntrada,horaSalida) VALUES (2,'2019-01-15','09:01:25','18:08:23');
+INSERT INTO registroasistencia (idEmpleado,fecha,horaEntrada,horaSalida) VALUES (3,'2019-01-15','09:01:25','18:08:23');
+INSERT INTO departamento (departamento) VALUES ('Licores');
+INSERT INTO departamento (departamento) VALUES ('Carnes');
+INSERT INTO departamento (departamento) VALUES ('Frutas y Verduras');
+INSERT INTO departamento (departamento) VALUES ('Panaderia');
+INSERT INTO departamento (departamento) VALUES ('Farmacia');
+INSERT INTO departamento (departamento) VALUES ('Limpieza');
+INSERT INTO categorias (categoria) VALUES ('Cervezas');
+INSERT INTO categorias (categoria) VALUES ('Vinos');
+INSERT INTO categorias (categoria) VALUES ('Tequilas');
+INSERT INTO categorias (categoria) VALUES ('Res');
+INSERT INTO categorias (categoria) VALUES ('Pollo');
+INSERT INTO categorias (categoria) VALUES ('Cerdo');
+INSERT INTO categorias (categoria) VALUES ('Frutas');
+INSERT INTO categorias (categoria) VALUES ('Verdura');
+INSERT INTO categorias (categoria) VALUES ('Reposteria');
+INSERT INTO categorias (categoria) VALUES ('Pan de dulce');
+INSERT INTO categorias (categoria) VALUES ('Tabletas');
+INSERT INTO categorias (categoria) VALUES ('Jarabes');
+INSERT INTO medida(medida) VALUES ('Kilogramos');
+INSERT INTO medida(medida) VALUES ('Litros');
+INSERT INTO medida(medida) VALUES ('Cajas');
+INSERT INTO medida(medida) VALUES ('Rejas');
+INSERT INTO medida(medida) VALUES ('Pieza');
+INSERT  INTO medida(medida) VALUES('Mililitros');
+INSERT INTO medida(medida) VALUES('Pieza');
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Dos equis',0.0,0.0,'Cerveza de lata 355',0,1,5,1);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Cabrito',0.0,0.0,'Tequila 750',0,1,5,3);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Carne',0.0,0.0,'Chuleta',0,2,6,4);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Carne',0.0,0.0,'Empanizado',0,2,6,5);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Manzana',0.0,0.0,'Manzana roja',0,3,1,7);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Zanahoria',0.0,0.0,'Zanahoria veracruzana',0,3,1,8);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Pastel',0.0,0.0,'Pastel de fresa',0,4,6,9);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Concha',0.0,0.0,'Concha blanca',0,4,6,10);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Next',0.0,0.0,'Pastillas para dolor de cabeza',0,5,3,11);
+INSERT INTO producto(productos,precioMinimo,precioMaximo,descripcion,stock,idDepartamento,idMedida,idCategoria)
+VALUES ('Histiacil',0.0,0.0,'Jarabe para la tos 30',0,5,5,12);
+INSERT INTO proveedor(proveedor,telefono,idEstado,idMunicipio,idLocalidad,idEmpresa) VALUES('Vinos y licores AC',238569856,1,1,1,1);
+INSERT INTO proveedor(proveedor,telefono,idEstado,idMunicipio,idLocalidad,idEmpresa) VALUES('Carnes Palencia S.A de C.V.',238032197,1,1,1,1);
+INSERT INTO proveedor(proveedor,telefono,idEstado,idMunicipio,idLocalidad,idEmpresa) VALUES('Frutas y Verduras Ortiz',238678245,1,1,1,1);
+INSERT INTO proveedor(proveedor,telefono,idEstado,idMunicipio,idLocalidad,idEmpresa) VALUES('Panaderia Jose',2386087192,1,1,1,1);
+INSERT INTO proveedor(proveedor,telefono,idEstado,idMunicipio,idLocalidad,idEmpresa) VALUES('FarmaMexico S.A',238668974,1,1,1,1);
+INSERT INTO compraproveedor(idProveedor,idSucursal,fecha,hora,totalCompra) VALUES (1,1,'2019-01-15','15:21:03',350);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(1,12,13.50,165.00,1);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(2,10,18.50,185.00,1);
+INSERT INTO compraproveedor(idProveedor,idSucursal,fecha,hora,totalCompra) VALUES (2,1,'2019-01-15','15:24:32',133.50);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(3,5,10.50,52.50,2);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(4,6,13.50,81.00,2);
+INSERT INTO compraproveedor(idProveedor,idSucursal,fecha,hora,totalCompra) VALUES (3,1,'2019-01-15','15:51:10',211.00);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(5,10,13.50,135.00,3);
+INSERT INTO compraproductos(idProducto,cantidad,costo,subTotal,idCompraProveedor) VALUES(6,8,9.50,76.00,3);
+INSERT INTO ventas(idUsuario,fecha,hora,totalVenta,idSucursal) VALUES (2,'2019-01-15','16:31:10',0,1);
+INSERT INTO ventas(idUsuario,fecha,hora,totalVenta,idSucursal) VALUES (2,'2019-01-15','16:35:45',0,1);
+INSERT INTO ventaproducto(idProducto,cantidad,subtotal,idVenta) VALUES (1,2,24.00,1);
+INSERT INTO ventaproducto(idProducto,cantidad,subtotal,idVenta) VALUES (2,2,141.00,1);
+INSERT INTO ventaproducto(idProducto,cantidad,subtotal,idVenta) VALUES (4,1,15.00,2);
+INSERT INTO ventaproducto(idProducto,cantidad,subtotal,idVenta) VALUES (5,2,34.00,2);
+
+
+	/* Ejemplos de consultas para extraer datos de las tablas de opensource */
+
+/* Seleccionar informacion completa de los empleados */
+
+SELECT empleado,apellidoPaterno,apellidoMaterno,estados.estado,municipios.municipio,localidades.localidad,empleados.calle,numero,edad,sexos.sexo,curp,rfc,turno.turno,sucursal.sucursal FROM empleados 
+       INNER JOIN estados ON empleados.idEstado=estados.idEstado 
+       INNER JOIN municipios ON empleados.idMunicipio=municipios.idMunicipio 
+       INNER JOIN localidades ON empleados.idLocalidad=localidades.idLocalidad 
+       INNER JOIN sexos ON empleados.idSexo=sexos.idSexo 
+       INNER JOIN turno ON empleados.idTurno=turno.idTurno 
+       INNER JOIN sucursal ON empleados.idSucursal=sucursal.idSucursal;
+
+/* Inversion y ganancias de la empresa */
+
+SELECT SUM(totalCompra) AS Inversion,SUM(totalVenta) AS Ganancias FROM compraproveedor,ventas; 
+
+
+
+
+
+
+
+
+
+
+
+
